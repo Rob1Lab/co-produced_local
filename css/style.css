@@ -1,0 +1,44 @@
+/* LES TYPOGRAPHIES */
+
+@font-face {
+    font-family: "walkaway";
+    src: url('../fonts/WALKWAY-BOLD.ttf');
+}
+@font-face {
+    font-family: "walkaway";
+    font-style: bold;
+    src: url('../fonts/WALKWAY-BLACK.ttf');
+}
+
+/* BASE CORPS */
+
+body{
+font-family: "walkaway", Helvetica, Arial, sans-serif;
+letter-spacing: 0.3em;
+}
+
+.grid-960{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+font-family: Calibri, Arial;
+font-size: 2em;
+
+}
+
+h2{
+font-size: 4em;
+
+}
+
+/* STYLES TEXTES */
+
+.total_projet{
+font-family: 
+}
+
+/* STYLES LIENS */
+
