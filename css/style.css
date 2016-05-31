@@ -1,4 +1,4 @@
-/* LES TYPOGRAPHIES */
+
 
 @font-face {
     font-family: "walkaway";
@@ -10,7 +10,6 @@
     src: url('../fonts/WALKWAY-BLACK.ttf');
 }
 
-/* BASE CORPS */
 
 body{
 font-family: "walkaway", Helvetica, Arial, sans-serif;
@@ -34,11 +33,20 @@ font-size: 4em;
 
 }
 
-/* STYLES TEXTES */
+
 
 .total_projet{
 font-family: 
 }
 
-/* STYLES LIENS */
+.test{}
+
+
+
+
+
+
+
+
+
 
